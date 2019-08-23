@@ -1,4 +1,4 @@
-{
+const Input = {
 	id: "1ce438ab-c6c2-4f98-abb6-b318bd83240c",
 	name: "Jasper K.",
 	saldo: 12862,
@@ -80,3 +80,4 @@
 	]
 };
 
+export default Input;
